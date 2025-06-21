@@ -11,7 +11,7 @@ abappi2019@gmail.com | [Portfolio](your-portfolio-link) • [GitHub](your-github
 
 ## <span style="color:#C47000">PRO</span>FESSIONAL SUMMARY
 
-Versatile **Full Stack Software Developer** specializing in modern JavaScript ecosystems and real-time applications. Proven expertise in building scalable SaaS platforms, developer tools, and cross-platform mobile applications. Strong advocate for clean code, test-driven development, and agile methodologies.
+Full Stack Developer who excels at creating complete, polished mobile and web applications. Combines strong frontend skills for building intuitive user interfaces with solid backend capabilities. Transforms complex requirements into efficient, maintainable solutions with clean code and thoughtful architecture. Known for attention to performance, responsive designs, and seamless user experiences across different platforms.
 
 ## <span style="color:#C47000">CORE</span> COMPETENCIES
 
@@ -39,41 +39,83 @@ Modern JavaScript Development (React, React Native, Node.js), Full Stack Applica
 
 ## <span style="color:#C47000">PRO</span>FESSIONAL HIGHLIGHTS
 
-**Software Engineer at Tulip Tech**
-- Developed cross-platform user interfaces using React Native and Next.js within a monorepo architecture
-- Integrated connections to Socket.IO APIs for real-time data presentation and user interaction
-- Implemented biometric authentication interfaces and frontend security protocols in mobile applications
-- Created client-side web worker solutions for PDF generation and document rendering
-- Implemented efficient data fetching and caching using TanStack Query for improved application performance
-- Designed efficient state management patterns utilizing Zustand for predictable data flow and rendering optimization
-- Built responsive UI components and interaction flows for social media platform frontend
-- Developed user-facing features for live streaming applications with media playback optimizations
-- Enhanced frontend performance through component optimization and efficient state management patterns
+**Software Engineer at Tulip Tech** • 2024 - Present
+- Developed cross-platform mobile applications and responsive web interfaces using React Native within a monorepo architecture
+- Integrated real-time data systems and Socket.IO APIs for live content streaming and interactive user experiences
+- Implemented biometric authentication interfaces and robust frontend security protocols in mobile applications
+- Created efficient web worker solutions for PDF generation, document rendering, and offline content processing
+- Optimized data fetching and state management using TanStack Query with sophisticated caching strategies
+- Designed advanced navigation systems with smooth transitions, history management, and deep linking capabilities
+- Built responsive UI components with animation libraries for enhanced visual experiences
 
-**Full Stack Developer at Oservo Dynamics**
-- Built real-time communication platform using WebRTC and Socket.IO
-- Developed microservices architecture handling high-concurrency scenarios
-- Led migration to modern TypeScript-based architecture
+**Full Stack Developer at Oservo Dynamics** • 2023 - 2024
+- Contributed to e-commerce platform for multiple online stores
+- Built website templating system and server-side code for better performance
+- Developed video calling and messaging features using WebRTC and Socket.IO
+- Created real estate management platform with lease tracking, property listings, and tenant portal
+- Implemented document viewing system for property agreements and lease contracts
+- Set up email systems using Dovecot and Postfix
+- Designed modular system architecture for easier updates and maintenance
+- Managed databases with stored procedures for handling business logic
 
-**Android Developer at BNB Tech**
-- Developed native Android applications with modern architecture components
-- Implemented offline-first architecture and background synchronization
-- Integrated Firebase services and optimized app performance
+**Android Developer at BNB Tech** • 2020 - 2022
+- Developed native Android applications with Java, following Material Design principles
+- Implemented offline-first architecture with SQLite for reliable operation in low connectivity areas
+- Created responsive UI components compatible across multiple device sizes and Android versions
+- Integrated REST APIs for seamless data synchronization between mobile app and backend systems
+- Utilized Firebase services for analytics, user authentication, and push notifications
+- Optimized app performance for lower-end devices through efficient memory and battery usage
+- Collaborated with design team to translate UI/UX wireframes into functioning applications
 
 ## <span style="color:#C47000">NOT</span>ABLE PROJECTS
 
-**LiveStream Pro**  
-Enterprise-grade streaming platform with multi-bitrate streaming and cloud recording
-_Node.js, WebRTC, Socket.IO, Redis, AWS_
+**Joshco App**  
+Real estate mobile and web platform for the Johannesburg Social Housing Company enabling tenants to manage properties, view leases, and access services.
 
-**ChatSync**  
-Real-time messaging platform with file sharing and message persistence
-_React Native, Socket.IO, NestJS, PostgreSQL_
+My Contributions:
+- Developed mobile app and responsive website with React Native
+- Built tenant dashboard for property management and lease viewing
+- Created fast PDF viewing system by converting documents to images
+- Set up email server for notifications and communications
+- Added automated database backup system with secure storage
+- Designed admin portal for lease management and tenant oversight
+- Built API connections to the database for data access
 
-**TaskFlow**  
-Collaborative task management with real-time updates and team workspaces
-_Next.js, TypeScript, Prisma, PostgreSQL_
+*[React Native (Expo), PostgreSQL, Laravel - Blade, RESTful APIs, Postfix, Dovecot, Linux, Cron]*
 
+
+**Paykhom**  
+Multi-tenant SaaS e-commerce platform enabling merchants to create and manage online stores with minimal technical knowledge.
+
+My Contributions:
+- Designed the core system for managing multiple online stores
+- Built website template system with instant theme updates
+- Developed server framework with Vert.x for fast response times
+- Created system for automatic store setup with separate domains
+- Added code tools to simplify server development
+- Built database structure for handling store operations
+- Configured production-grade mail server using 
+Dovecot and Postfix for transactional emails
+- Established automated user provisioning with 
+custom domain routing for each merchant
+
+*[Vert.x, JavaScript, PostgreSQL, Nginx, Linux, Shell Scripting, Microservices, Custom Annotation Processing, Template Engine, Dovecot/Postfix]*
+
+**The World Games**  
+Feature-rich streaming application with 24/7 live channel, multiple camera coverage, and on-demand video library.
+
+My Contributions:
+- Integrated JWPlayer with custom controls for live 
+and VOD playback
+- Built smooth tab navigation with easy transitions and deep linking
+- Implemented advanced monetization through 
+strategic ad insertion (pre-roll, mid-roll, custom 
+placement)
+- Implemented real-time competition data integration with 
+dynamic leaderboards and statistics
+- Improved data loading and storage for better performance
+
+*[React Native (Expo), JWPlayer, Supabase, Sanity CMS, GraphQL, TanStack Query]*
 <!-- ## Education
 
 **Diploma in Computer Science**
