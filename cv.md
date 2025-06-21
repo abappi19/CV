@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="font-size: 2em; font-weight: bold; margin: 0; border: none;">
-    <span style="color:#E77000">Md</span> Asadujjaman
+    <span style="color:#C47000">Md</span> Asadujjaman
 </div>
 
 Dhaka, Bangladesh | +880 1998 439584  
@@ -9,15 +9,15 @@ abappi2019@gmail.com | [Portfolio](your-portfolio-link) • [GitHub](your-github
 
 </div>
 
-## <span style="color:#E77000">PRO</span>FESSIONAL SUMMARY
+## <span style="color:#C47000">PRO</span>FESSIONAL SUMMARY
 
 Versatile **Full Stack Software Developer** specializing in modern JavaScript ecosystems and real-time applications. Proven expertise in building scalable SaaS platforms, developer tools, and cross-platform mobile applications. Strong advocate for clean code, test-driven development, and agile methodologies.
 
-## <span style="color:#E77000">CORE</span> COMPETENCIES
+## <span style="color:#C47000">CORE</span> COMPETENCIES
 
 Modern JavaScript Development (React, React Native, Node.js), Full Stack Application Architecture, Cross-Platform Mobile Development, Real-time Systems & WebSocket Integration, REST API Design & Implementation, Test-Driven Development, Clean Code & Best Practices, Performance Optimization
 
-## <span style="color:#E77000">TEC</span>HNICAL SKILLS
+## <span style="color:#C47000">TEC</span>HNICAL SKILLS
 
 **Languages & Scripting:** JavaScript, TypeScript, Kotlin, Java, Dart, HTML5, CSS3, SCSS
 
@@ -37,7 +37,7 @@ Modern JavaScript Development (React, React Native, Node.js), Full Stack Applica
 
 **DevOps & Deployment:** Git, GitHub, GitHub Projects, GitHub Actions, Vercel, EAS Build, Docker (Basic), Linux (Ubuntu), macOS
 
-## <span style="color:#E77000">PRO</span>FESSIONAL HIGHLIGHTS
+## <span style="color:#C47000">PRO</span>FESSIONAL HIGHLIGHTS
 
 **Software Engineer at Tulip Tech**
 - Developed cross-platform user interfaces using React Native and Next.js within a monorepo architecture
@@ -60,7 +60,7 @@ Modern JavaScript Development (React, React Native, Node.js), Full Stack Applica
 - Implemented offline-first architecture and background synchronization
 - Integrated Firebase services and optimized app performance
 
-## <span style="color:#E77000">NOT</span>ABLE PROJECTS
+## <span style="color:#C47000">NOT</span>ABLE PROJECTS
 
 **LiveStream Pro**  
 Enterprise-grade streaming platform with multi-bitrate streaming and cloud recording
