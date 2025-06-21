@@ -14,7 +14,7 @@
             --border-light: #f0f0f0;
             --border-subtle: #eee;
             --tech-stack-bg: transparent;
-            
+
             /* Typography */
             --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             --line-height: 1.6;
@@ -22,7 +22,7 @@
             --title-size: 1.2em;
             --section-size: 1.5em;
             --job-title-size: 1.1em;
-            
+
             /* Spacing */
             --spacing-xs: 5px;
             --spacing-sm: 8px;
@@ -30,7 +30,7 @@
             --spacing-lg: 15px;
             --spacing-xl: 20px;
             --spacing-xxl: 30px;
-            
+
             /* Layout */
             --container-padding: 20px;
             --border-width: 2px;
@@ -54,7 +54,7 @@
             font-weight: bold;
             margin: 0;
             margin-bottom: -16px;
-            
+
         }
 
         .title {
@@ -88,9 +88,21 @@
         }
 
         .job-title {
-            font-weight: bold;
-            font-size: var(--job-title-size);
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
             margin: var(--spacing-xl) 0 var(--spacing-md) 0;
+        }
+
+        .job-title span:first-child {
+            font-size: var(--job-title-size);
+            font-weight: bold;
+        }
+
+        .job-title .company-name {
+            font-weight: bold;
+            color: var(--accent-color);
         }
 
         .company-period {
@@ -186,8 +198,10 @@
     </div>
     <div class="skills-container">
         <div class="skills-category">Mobile Development:</div>
-        <div class="skills-list">React Native (Expo & Bare), Android (Jetpack Compose, Java), Push Notifications, Offline
-            Sync, Deep Linking, OTA Updates, App Publishing (Play Store / App Store), Expo EAS, Performance Optimization,
+        <div class="skills-list">React Native (Expo & Bare), Android (Jetpack Compose, Java), Push Notifications,
+            Offline
+            Sync, Deep Linking, OTA Updates, App Publishing (Play Store / App Store), Expo EAS, Performance
+            Optimization,
             Device APIs Integration</div>
     </div>
 
@@ -198,13 +212,15 @@
 
     <div class="skills-container">
         <div class="skills-category">Architecture & State Management:</div>
-        <div class="skills-list">Modular Code Structure, Component-Based Architecture, Redux, Zustand, Context API, MobX,
+        <div class="skills-list">Modular Code Structure, Component-Based Architecture, Redux, Zustand, Context API,
+            MobX,
             React Navigation, Deep Linking, Clean Architecture, SOLID Principles</div>
     </div>
 
     <div class="skills-container">
         <div class="skills-category">UI/UX & Design Integration:</div>
-        <div class="skills-list">Tamagui, Material Design, Shadcn, AndDesign, Framer Motion, Reanimated, Responsive Layouts,
+        <div class="skills-list">Tamagui, Material Design, Shadcn, AndDesign, Framer Motion, Reanimated, Responsive
+            Layouts,
             Cross-platform UI</div>
     </div>
 
@@ -214,9 +230,10 @@
             WebRTC</div>
     </div>
 
-        <div class="skills-container">
+    <div class="skills-container">
         <div class="skills-category">Cloud & Infrastructure:</div>
-        <div class="skills-list">Firebase (Auth, Firestore, Real-time DB), Supabase, AWS (Basic), Authentication, Real-time
+        <div class="skills-list">Firebase (Auth, Firestore, Real-time DB), Supabase, AWS (Basic), Authentication,
+            Real-time
             Database, Storage, Push Notifications, Cloud Functions, Error Tracking, Analytics</div>
     </div>
 
@@ -234,7 +251,10 @@
 
     <h2><span class="section-highlight">PRO</span>FESSIONAL HIGHLIGHTS</h2>
 
-    <div class="job-title">Software Engineer at Tulip Tech <span class="company-period">• 2024 - Present</span></div>
+    <div class="job-title">
+        <span>Software Engineer at <span class="company-name">Tulip Tech</span></span>
+        <span class="company-period">2024 -Present</span>
+    </div>
     <ul>
         <li>Developed mobile apps and web interfaces using React Native in a shared codebase</li>
         <li>Connected to real-time data systems for live content and interactive experiences</li>
@@ -245,7 +265,9 @@
         <li>Designed responsive user interfaces with animations for better user experience</li>
     </ul>
 
-    <div class="job-title">Full Stack Developer at Oservo Dynamics <span class="company-period">• 2023 - 2024</span>
+    <div class="job-title">
+        <span>Full Stack Developer at <span class="company-name">Oservo Dynamics</span></span>
+        <span class="company-period">2023 - 2024</span>
     </div>
     <ul>
         <li>Contributed to e-commerce platform for multiple online stores</li>
@@ -258,7 +280,10 @@
         <li>Managed databases with stored procedures for handling business logic</li>
     </ul>
 
-    <div class="job-title">Android Developer at BNB Tech <span class="company-period">• 2019 - 2021</span></div>
+    <div class="job-title">
+        <span>Android Developer at <span class="company-name">BNB Tech</span></span>
+        <span class="company-period">2019 - 2021</span>
+    </div>
     <ul>
         <li>Developed native Android applications with Java, following Material Design principles</li>
         <li>Implemented offline-first architecture with SQLite for reliable operation in low connectivity areas</li>
