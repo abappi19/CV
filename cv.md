@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="font-size: 2em; font-weight: bold; margin: 0; border: none;">
-    Md Asadujjaman
+    <span style="color:#E77000">Md</span> Asadujjaman
 </div>
 
 Dhaka, Bangladesh | +880 1998 439584  
@@ -9,15 +9,15 @@ abappi2019@gmail.com | [Portfolio](your-portfolio-link) • [GitHub](your-github
 
 </div>
 
-## PROFESSIONAL SUMMARY
+## <span style="color:#E77000">PRO</span>FESSIONAL SUMMARY
 
 Versatile **Full Stack Software Developer** specializing in modern JavaScript ecosystems and real-time applications. Proven expertise in building scalable SaaS platforms, developer tools, and cross-platform mobile applications. Strong advocate for clean code, test-driven development, and agile methodologies.
 
-## CORE COMPETENCIES
+## <span style="color:#E77000">CORE</span> COMPETENCIES
 
 Modern JavaScript Development (React, React Native, Node.js), Full Stack Application Architecture, Cross-Platform Mobile Development, Real-time Systems & WebSocket Integration, REST API Design & Implementation, Test-Driven Development, Clean Code & Best Practices, Performance Optimization
 
-## TECHNICAL SKILLS
+## <span style="color:#E77000">TEC</span>HNICAL SKILLS
 
 **Languages & Scripting:** JavaScript, TypeScript, Kotlin, Java, Dart, HTML5, CSS3, SCSS
 
@@ -37,7 +37,7 @@ Modern JavaScript Development (React, React Native, Node.js), Full Stack Applica
 
 **DevOps & Deployment:** Git, GitHub, GitHub Projects, GitHub Actions, Vercel, EAS Build, Docker (Basic), Linux (Ubuntu), macOS
 
-## Professional Highlights
+## <span style="color:#E77000">PRO</span>FESSIONAL HIGHLIGHTS
 
 **Software Engineer at Tulip Tech**
 - Developed cross-platform user interfaces using React Native and Next.js within a monorepo architecture
@@ -51,28 +51,26 @@ Modern JavaScript Development (React, React Native, Node.js), Full Stack Applica
 - Enhanced frontend performance through component optimization and efficient state management patterns
 
 **Full Stack Developer at Oservo Dynamics**
-
 - Built real-time communication platform using WebRTC and Socket.IO
 - Developed microservices architecture handling high-concurrency scenarios
 - Led migration to modern TypeScript-based architecture
 
 **Android Developer at BNB Tech**
-
 - Developed native Android applications with modern architecture components
 - Implemented offline-first architecture and background synchronization
 - Integrated Firebase services and optimized app performance
 
-## Notable Projects
+## <span style="color:#E77000">NOT</span>ABLE PROJECTS
 
-**LiveStream Pro**
+**LiveStream Pro**  
 Enterprise-grade streaming platform with multi-bitrate streaming and cloud recording
 _Node.js, WebRTC, Socket.IO, Redis, AWS_
 
-**ChatSync**
+**ChatSync**  
 Real-time messaging platform with file sharing and message persistence
 _React Native, Socket.IO, NestJS, PostgreSQL_
 
-**TaskFlow**
+**TaskFlow**  
 Collaborative task management with real-time updates and team workspaces
 _Next.js, TypeScript, Prisma, PostgreSQL_
 
