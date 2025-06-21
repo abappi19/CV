@@ -36,6 +36,12 @@
             --border-width: 2px;
             --border-accent-width: 3px;
         }
+        @media print {
+            @page {
+                size: A4;
+                margin: 0;
+            }
+        }
 
         body {
             font-family: var(--font-family);
