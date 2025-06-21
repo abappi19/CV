@@ -29,33 +29,32 @@ Modern JavaScript Development (React, React Native, Node.js), Full Stack Applica
 
 **UI/UX & Design Integration:** Tamagui, Material Design, Shadcn, AndDesign, Framer Motion, Reanimated, Responsive Layouts, Cross-platform UI
 
-**Backend & Databases:** Node.js, Express.js, NestJS, PostgreSQL, MongoDB, Redis, Prisma, TypeORM, Socket.IO, WebSocket, WebRTC
+**Backend & Databases:** Node.js, Express.js, NestJS, PostgreSQL, MongoDB, Redis, TypeORM, Socket.IO, WebSocket, WebRTC
 
 **Cloud & Infrastructure:** Firebase (Auth, Firestore, Real-time DB), Supabase, AWS (Basic), Authentication, Real-time Database, Storage, Push Notifications, Cloud Functions, Error Tracking, Analytics
 
-**Testing & Development Tools:** Jest, React Testing Library, Detox, Chrome DevTools, Expo DevTools, Flipper, VS Code, Android Studio, Swagger, Postman
+**Testing & Development Tools:** Jest, React Testing Library, Chrome DevTools, Expo DevTools, VS Code, Android Studio, Swagger, Postman
 
 **DevOps & Deployment:** Git, GitHub, GitHub Projects, GitHub Actions, Vercel, EAS Build, Docker (Basic), Linux (Ubuntu), macOS
 
 ## Professional Highlights
 
 **Software Engineer at Tulip Tech**
-
-- Mobile application development using React Native and Expo
-- Architect scalable frontend solutions with TypeScript and modern state management
-
+- Developed cross-platform user interfaces using React Native and Next.js within a monorepo architecture
+- Integrated connections to Socket.IO APIs for real-time data presentation and user interaction
+- Implemented biometric authentication interfaces and frontend security protocols in mobile applications
+- Created client-side web worker solutions for PDF generation and document rendering
+- Implemented efficient data fetching and caching using TanStack Query for improved application performance
+- Designed efficient state management patterns utilizing Zustand for predictable data flow and rendering optimization
+- Built responsive UI components and interaction flows for social media platform frontend
+- Developed user-facing features for live streaming applications with media playback optimizations
+- Enhanced frontend performance through component optimization and efficient state management patterns
 
 **Full Stack Developer at Oservo Dynamics**
 
 - Built real-time communication platform using WebRTC and Socket.IO
 - Developed microservices architecture handling high-concurrency scenarios
 - Led migration to modern TypeScript-based architecture
-
-**Full Stack Developer at Fast Pay Internet**
-
-- Engineered admin dashboard with React and Node.js
-- Integrated live video streaming platform with RTMP/RTSP protocols
-- Implemented secure payment processing with Stripe and PayPal
 
 **Android Developer at BNB Tech**
 
@@ -77,7 +76,7 @@ _React Native, Socket.IO, NestJS, PostgreSQL_
 Collaborative task management with real-time updates and team workspaces
 _Next.js, TypeScript, Prisma, PostgreSQL_
 
-## Education
+<!-- ## Education
 
 **Diploma in Computer Science**
-Shyamoli Engineering Institute, Rangpur
+Shyamoli Engineering Institute, Rangpur -->
